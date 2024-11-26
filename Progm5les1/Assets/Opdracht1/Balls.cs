@@ -36,7 +36,7 @@ public class Balls : MonoBehaviour
     }
     void CreateLotOfBalls()
     {
-        for (int i = 0; i < 100; i++)
+        for (int i = 0; i < 1; i++)
         {
             Color color = RandomColor();
             Vector3 randPos = RandomPosition(-10f, 10f);

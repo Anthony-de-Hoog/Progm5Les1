@@ -458,7 +458,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5190d29fc7df4e4195d03eeacd3c937, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Cube: {fileID: 6775595728774280445, guid: 95e6ec2b7c8009f4490571ad8f49769d, type: 3}
+  CubePrefab: {fileID: 6775595728774280445, guid: 95e6ec2b7c8009f4490571ad8f49769d, type: 3}
   timer: 3
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
